@@ -12,6 +12,9 @@ I'm Flor Bergesio, a software engineer, web development enthusiast and videogame
 [LinkedIn profile][linkedin]
 [<img align="left" alt="Florencia Bergesio | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[WIP Portfolio][portfolio]
+[<img align="left" alt="Florencia Bergesio | Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />][portfolio]
+
 ### Languages and tools
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -52,3 +55,4 @@ I'm Flor Bergesio, a software engineer, web development enthusiast and videogame
 <br />
 
 [linkedin]: https://www.linkedin.com/in/maríaflorenciabergesiomoreno/
+[portfolio]: https://portfolio-flor-bergesio.vercel.app
